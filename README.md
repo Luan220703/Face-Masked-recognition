@@ -10,6 +10,10 @@ Thực tế thì library face recognition trên được ứng dụng cho face r
 
 Cách sử dụng đầu tiên cho code này là chụp hình khuôn mặt ta rồi viết cái tên file.jpg theo tên mình và bỏ vào 1 folder rồi chình path vào trong def encode_face trong file recognition.py trên sau đó là chạy file recognition để real time nhận diện nó.
 
+Cách thức hoạt đông đơn giản của chúng
+
+![image](https://github.com/Luan220703/Face-Masked-recognition/assets/125823474/d771ead4-ef65-47f4-80ef-e00460bbbf85)
+
 
 
 
